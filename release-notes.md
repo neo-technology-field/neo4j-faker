@@ -1,3 +1,7 @@
+# 0.9.6
+* maintenance
+* Updated pom.xml to support 5.26.0 LTS
+
 # 0.9.5
 
 * maintenance
